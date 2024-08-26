@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.navbar-default{
+    background-color: rgba(red, green, blue, alpha);
+
+.navbar-brand{
+    padding: 0;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+    background-color: darkolivegreen;
+}
